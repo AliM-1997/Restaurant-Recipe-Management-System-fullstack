@@ -1,0 +1,9 @@
+[submodule "Restaurant-Recipe-Management-System-frontend"]
+	path = Restaurant-Recipe-Management-System-frontend
+	url = https://github.com/AliM-1997/Restaurant-Recipe-Management-System-frontend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/AliM-1997/Restaurant-Recipe-Management-System-frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/AliM-1997/Restaurant-Recipe-Management-System-backend.git
